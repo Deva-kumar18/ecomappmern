@@ -1,0 +1,20 @@
+@import url('./components/Sidebar/Sidebar.css');
+@import url('./Pages/LayoutPage/LayoutPage.css');
+@import url('./components/Navbar/Navbar.css');
+@import url('./components/Content/Content.css');
+@import url('./Pages/AddNewProduct/AddNewProduct.css');
+@import url('./Pages/AddNewUser/AddNewUser.css');
+@import url('./Pages/OrderDetails/OrderDetails.css');
+@import url('./Pages/OrderList/OrderList.css');
+@import url('./Pages/ProductDetails/ProductDetails.css');
+@import url('./Pages/ProductList/ProductList.css');
+@import url('./Pages/UserDetails/Users.css');
+@import url('./Pages/UserList/UserList.css');
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}

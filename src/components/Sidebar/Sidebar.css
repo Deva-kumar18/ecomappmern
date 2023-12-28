@@ -1,0 +1,37 @@
+.sidebar-container{
+    height: 90vh;
+    width: 15vw;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    
+ 
+   
+}
+
+li{
+    list-style-type: none;
+}
+.side-map{
+    display: flex;
+    height: 5vh;
+    width: 14vw;
+    margin-bottom: 6px;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 6px;
+    column-gap: 10px;
+    box-sizing: border-box;
+    padding-left: 2vw;
+    color: White;
+    font-weight: 500;
+    
+}
+.side-ico{
+    color: black;
+    
+}
+
+ul{
+    padding-inline-start: 0;
+}
